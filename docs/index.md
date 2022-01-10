@@ -1,8 +1,7 @@
 # Trianons - Open Marketing & Open Business
 
-A Trianons é uma empresa idealizada há 10 anos com um DNA colaborativo e inovador. 
-
-
+## A História da Trianons
+A Trianons é uma empresa idealizada há 10 anos com um DNA colaborativo e inovador. A primeira geração da Trianons surge sobre a bandeira "Inovação Digital e Redes Sociais". 
 
 
 You can use the [editor on GitHub](https://github.com/Trianons/Trianons/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
@@ -13,15 +12,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+```Valores
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+
+### Background Pré-Trianons - Cases atendidos antes da Trianons por Juliano Kimura
+
+
+### Clientes e Projetos Atendidos pela Trianons
+- Lucenzo (Kuduro - Brazil Tour) 
+- NC Games
+- Associação Paulista de Agências Digitais
+- 
 
 1. Numbered
 2. List
