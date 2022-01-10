@@ -1,4 +1,6 @@
 # Trianons - Open Marketing & Open Business
+A metodologia Trianons surge da necessidade de uma forma de trabalhar bidirecional e autogestionada. Uma cultura crescente e necessária para uma nova geração de profissionais e empresas. 
+
 
 ## A História da Trianons
 A Trianons é uma empresa idealizada há 10 anos com um DNA colaborativo e inovador. A primeira geração da Trianons surge sobre a bandeira "Inovação Digital e Redes Sociais". Sendo que a base espiritual da Trianons surgiu no curso de Inovação Digital e Redes Sociais da ESPM através do professor Gil Giardelli. Essa base tornou possível que a Trianons estivesse preparada para toda a evolução. 
