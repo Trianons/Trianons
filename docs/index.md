@@ -1,19 +1,23 @@
 # Trianons - Open Marketing & Open Business
 
 ## A História da Trianons
-A Trianons é uma empresa idealizada há 10 anos com um DNA colaborativo e inovador. A primeira geração da Trianons surge sobre a bandeira "Inovação Digital e Redes Sociais". 
+A Trianons é uma empresa idealizada há 10 anos com um DNA colaborativo e inovador. A primeira geração da Trianons surge sobre a bandeira "Inovação Digital e Redes Sociais". Sendo que a base espiritual da Trianons surgiu no curso de Inovação Digital e Redes Sociais da ESPM através do professor Gil Giardelli. Essa base tornou possível que a Trianons estivesse preparada para toda a evolução. 
+
+Ao longo de 10 anos, a Trianons rodou projetos de: inovação digital, gestão de redes sociais e Marketing Digital. 
 
 
-You can use the [editor on GitHub](https://github.com/Trianons/Trianons/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+[Site Oficial da Trianons](https://trianons.com.br/) - Site Oficial Unidirecional da Trianons 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```Valores
 Syntax highlighted code block
+
+
+
 
 
 
