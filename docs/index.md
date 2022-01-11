@@ -7,23 +7,17 @@ A Trianons é uma empresa idealizada há 10 anos com um DNA colaborativo e inova
 
 Ao longo de 10 anos, a Trianons rodou projetos de: inovação digital, gestão de redes sociais e Marketing Digital. 
 
-
 [Site Oficial da Trianons](https://trianons.com.br/) - Site Oficial Unidirecional da Trianons 
+[Site Oficial da Juliano Kimura](https://julianokimura.com.br/) - Site Oficial Unidirecional de Juliano Kimura
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```Valores
-Syntax highlighted code block
-
-
-
-
-
 
 ### Background Pré-Trianons - Cases atendidos antes da Trianons por Juliano Kimura
+- Pernod Ricard
+- 
 
 
 ### Clientes e Projetos Atendidos pela Trianons
@@ -32,13 +26,11 @@ Syntax highlighted code block
 - Associação Paulista de Agências Digitais
 - 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+
+
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
